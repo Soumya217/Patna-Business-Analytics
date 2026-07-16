@@ -71,3 +71,13 @@ Patna-Business-Analytics/
 - Integrate live Google Business Profile data.
 - Deploy the prediction model as a web application.
 - Enhance the dashboard with real-time analytics.
+
+  ## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Machine Learning
+- Data Visualization
+- Dashboard Development
+- DAX
+- Business Intelligence
